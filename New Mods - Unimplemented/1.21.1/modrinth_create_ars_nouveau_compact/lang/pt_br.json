@@ -1,0 +1,58 @@
+{
+  "creativetab.createarscompact.storageessence": "Create Ars Compact",
+
+  "block.createarscompact.air_essence_crate": "Essência de Ar Compacta",
+  "block.createarscompact.water_essence_crate": "Essência de Água Compacta",
+  "block.createarscompact.fire_essence_crate": "Essência de Fogo Compacta",
+  "block.createarscompact.earth_essence_crate": "Essência de Terra Compacta",
+  "block.createarscompact.conjuration_essence_crate": "Essência de Conjuração Compacta",
+  "block.createarscompact.abjuration_essence_crate": "Essência de Abjuração Compacta",
+  "block.createarscompact.manipulation_essence_crate": "Essência de Manipulação Compacta",
+
+  "block.createarscompact.source_casing": "Revestimento de Fonte",
+  "block.createarscompact.source_mechanical_press": "Prensa Mecânica de Fonte",
+  "block.createarscompact.source_mechanical_mixer": "Misturador Mecânico de Fonte",
+  "block.createarscompact.source_mechanical_saw": "Serra Mecânica de Fonte",
+  "block.createarscompact.source_mechanical_drill": "Broca Mecânica de Fonte",
+  "block.createarscompact.sorcerer_cage": "Gaiola de Feiticeiro",
+  "block.createarscompact.sorcerer_blaze_burner": "Queimador de Blaze Feiticeiro",
+
+  "item.createarscompact.source_tube": "Tubo de Fonte",
+  "item.createarscompact.incomplete_source_engine": "Motor de Fonte Incompleto",
+  "item.createarscompact.source_engine": "Motor de Fonte",
+  "item.createarscompact.polished_amethyst": "Ametista Polida",
+  "item.createarscompact.brass_whisk": "Batedor de Latão",
+
+  "tooltip.createarscompact.source_tube": "Usado para aumentar a capacidade de Fonte de forma mágica",
+  "tooltip.createarscompact.source_engine.shift_down": "Clique em um Queimador de Blaze ou Gaiola de Feiticeiro para torná-lo um mago",
+  "tooltip.createarscompact.source_engine": "Pressione §eShift§r para mais informações",
+
+  "tooltip.createarscompact.sorcerer_burner.heat": "Calor: %s",
+  "tooltip.createarscompact.sorcerer_burner.source": "Fonte: %s / %s",
+  "tooltip.createarscompact.sorcerer_burner.cost": "Usando: %s Fonte/t",
+  "tooltip.createarscompact.sorcerer_burner.tubes": "Tubos de Fonte: %s / %s",
+  "tooltip.createarscompact.sorcerer_burner.heat_value": "Nível de Calor: %s / %s",
+
+  "tooltip.createarscompact.heat.none": "Inerte",
+  "tooltip.createarscompact.heat.smouldering": "Em brasa",
+  "tooltip.createarscompact.heat.fading": "Enfraquecendo",
+  "tooltip.createarscompact.heat.kindled": "Aquecido",
+  "tooltip.createarscompact.heat.seething": "Superaquecido",
+
+  "advancement.createarscompact.root": "Bem-vindo(a) ao Create Ars Nouveau Compact",
+  "advancement.createarscompact.root.desc": "Tudo começou com um Blaze que queria ser Mago",
+  "advancement.createarscompact.polished_amethyst": "Brilhante, o Favorito dos Magos",
+  "advancement.createarscompact.polished_amethyst.desc": "Polir o Fragmento de Ametista",
+  "advancement.createarscompact.source_tube": "Mana do Blaze",
+  "advancement.createarscompact.source_tube.desc": "Fabricar o Tubo de Fonte",
+  "advancement.createarscompact.source_engine": "Coração da Magia",
+  "advancement.createarscompact.source_engine.desc": "Fabricar o Motor de Fonte",
+  "advancement.createarscompact.sorcerer_blaze_burner": "Graduação Arcana",
+  "advancement.createarscompact.sorcerer_blaze_burner.desc": "Use um Motor de Fonte em um Queimador de Blaze ou Gaiola de Feiticeiro para criar um Queimador de Blaze Feiticeiro",
+  "advancement.createarscompact.install_4_source_tubes": "Capacidade MÁX de Fonte",
+  "advancement.createarscompact.install_4_source_tubes.desc": "Instale 4 Tubos de Fonte em um Queimador de Blaze Feiticeiro",
+  "advancement.createarscompact.heat_with_source": "Alimentado por Fonte",
+  "advancement.createarscompact.heat_with_source.desc": "Use Fonte para iniciar o aquecimento de um Queimador de Blaze Feiticeiro",
+  "advancement.createarscompact.max_source_boiler": "Força do Vapor Arcano",
+  "advancement.createarscompact.max_source_boiler.desc": "Alcance o nível máximo da caldeira com um Queimador de Blaze Feiticeiro"
+}
